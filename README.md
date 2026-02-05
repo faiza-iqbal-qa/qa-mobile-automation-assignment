@@ -96,5 +96,5 @@ The test suite covers the following journey:
 * **Screenshots:** If a failure occurs, the screenshot will appear in `screenshots/`.
 
 ```
-
+For any questions or clarifications, I'm happy to hop on a quick walkthrough call.
 ```
