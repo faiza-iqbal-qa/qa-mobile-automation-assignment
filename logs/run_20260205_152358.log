@@ -1,0 +1,7 @@
+2026-02-05 15:23:59,358 [INFO] Cleared API Demos app state (force-stop + clear)
+2026-02-05 15:24:29,344 [INFO] Verify home screen loaded
+2026-02-05 15:24:37,067 [INFO] Go to Views -> Expandable Lists -> 1. Custom Adapter
+2026-02-05 15:24:49,204 [INFO] Long press People Names and verify Sample menu
+2026-02-05 15:24:51,213 [INFO] Context menu appeared (treated as confirmation)
+2026-02-05 15:24:51,214 [INFO] Navigate back to main and go App -> Activity -> Custom Title
+2026-02-05 15:25:15,998 [INFO] Saved screenshot on failure: /Users/faizaiqbal/Desktop/qa_mobile_automation/screenshots/test_api_demos_assignment_flow_20260205_152515.png

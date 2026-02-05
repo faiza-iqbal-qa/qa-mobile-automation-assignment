@@ -1,0 +1,8 @@
+2026-02-05 17:35:14,611 [INFO] Cleared API Demos app state (force-stop + clear)
+2026-02-05 17:36:05,897 [INFO] Verify home screen loaded
+2026-02-05 17:36:16,230 [INFO] Go to Views -> Expandable Lists -> 1. Custom Adapter
+2026-02-05 17:36:29,677 [INFO] Long press People Names and verify Sample menu
+2026-02-05 17:36:32,621 [INFO] Context menu appeared (treated as confirmation)
+2026-02-05 17:36:32,621 [INFO] Navigate back to API Demos home list (where 'App' exists)
+2026-02-05 17:36:44,629 [INFO] Navigate App -> Activity -> Custom Title
+2026-02-05 17:36:48,680 [INFO] Verify Custom Title screen loaded
