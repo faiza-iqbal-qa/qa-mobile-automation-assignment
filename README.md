@@ -6,7 +6,7 @@ This repository contains my solution for the Mobile UI Automation assignment. It
 
 ---
 
-## 🧠 My Approach & Architecture
+## My Approach & Architecture
 
 I approached this assignment with a focus on scalability and readability. Rather than writing a linear script, I implemented the **Page Object Model (POM)** design pattern.
 
@@ -17,7 +17,7 @@ I approached this assignment with a focus on scalability and readability. Rather
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 [cite_start]I organized the project strictly according to the assignment requirements[cite: 14]:
 
